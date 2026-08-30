@@ -8,10 +8,10 @@ Concept Linker — Students study topics in isolation. Auto-link related concept
 ---
 
 
-###Project Contributors:
+### Project Contributors:
 
-*Ayesha Luqman:[https://github.com/Ayesha-Luqman/](https://github.com/Ayesha-Luqman/)
-*Khubaib Muhammad:[https://github.com/Khubaib-Muhammad](https://github.com/Khubaib-Muhammad)
+* Ayesha Luqman:[https://github.com/Ayesha-Luqman/](https://github.com/Ayesha-Luqman/)
+* Khubaib Muhammad:[https://github.com/Khubaib-Muhammad](https://github.com/Khubaib-Muhammad)
 
 *Project Link: [https://drive.google.com/file/d/1Mlc7wUFEC25qgaRqTIJYomBwot1RC_Cz/view](https://drive.google.com/file/d/1Mlc7wUFEC25qgaRqTIJYomBwot1RC_Cz/view)*
 
